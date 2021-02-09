@@ -13,3 +13,4 @@
 - Created a file that's interpreted as a bootable disk by the BIOS
 - Worked on bootsector print, memory, stack, and function strings
 - Need to review printing hex values
+- Need to review segmentation, don't understand
