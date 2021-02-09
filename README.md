@@ -14,3 +14,4 @@
 - Worked on bootsector print, memory, stack, and function strings
 - Need to review printing hex values
 - Need to review segmentation, don't understand
+- Might need to test on laptop
